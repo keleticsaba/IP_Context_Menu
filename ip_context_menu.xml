@@ -29,6 +29,7 @@ restart tomcat.
 -->
 <contextMenu>
         <menuEntry name="AbuseIPDB" url="https://www.abuseipdb.com/check/%IP%" />
+        <menuEntry name="threatbook.io" url="https://threatbook.io/ip/%IP%" />
         <menuEntry name="AlienVault OTX" url="https://otx.alienvault.com/indicator/ip/%IP%" />
         <menuEntry name="Censys" url="https://censys.io/ipv4/%IP%" />
         <menuEntry name="Cisco Talos" url="https://www.talosintelligence.com/reputation_center/lookup?search=%IP%" />
